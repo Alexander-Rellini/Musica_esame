@@ -11,6 +11,7 @@ public class Cantante {
         this.nazionalità = nazionalità;
     }
 
+
     public String getNome() {
         return nome;
     }

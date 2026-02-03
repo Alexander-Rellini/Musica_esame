@@ -1,0 +1,2 @@
+# Music Omega
+MusicOmega è una piattaforma di streaming musicale che si rivolge a un pubblico molto ampio, attento alle nuove tendenze della musica internazionale e interessato a un rapporto più diretto con artisti e artiste. La piattaforma permette lo streaming della musica, in modo efficiente, e in caso di account a pagamento l’utente può accedere all’intero catalogo dell’applicazione e alle live dei cantanti. Si possono ascoltare sia brani singoli che cataloghi prestabiliti oppure creati dall’utente. Le royalties sono assegnate in base agli ascolti
